@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetagTasks1", "BluetagTasks1\BluetagTasks1.csproj", "{41A38412-BA8E-4FE0-99F2-7CAFCC32287B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A38412-BA8E-4FE0-99F2-7CAFCC32287B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A38412-BA8E-4FE0-99F2-7CAFCC32287B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A38412-BA8E-4FE0-99F2-7CAFCC32287B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A38412-BA8E-4FE0-99F2-7CAFCC32287B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {842517DC-CAA7-4711-AE5C-BD93EB1B8DA8}
+	EndGlobalSection
+EndGlobal

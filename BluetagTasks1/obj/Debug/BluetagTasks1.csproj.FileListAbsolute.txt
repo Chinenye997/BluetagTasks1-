@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\bin\Debug\BluetagTasks1.exe.config
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\bin\Debug\BluetagTasks1.exe
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\bin\Debug\BluetagTasks1.pdb
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\obj\Debug\BluetagTasks1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\obj\Debug\BluetagTasks1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\obj\Debug\BluetagTasks1.exe
+C:\Users\USER\source\repos\BluetagTasks1\BluetagTasks1\obj\Debug\BluetagTasks1.pdb
